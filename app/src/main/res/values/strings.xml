@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myHike</string>
+    <string name="hike">hike</string>
+    <string name="my_hike">My Hike</string>
+    <string name="latitude_32_7">Latitude: 32.7</string>
+    <string name="longitude_37_2">Longitude: 37.2</string>
+    <string name="speed_4_2m_s">Speed: 4.2m/s</string>
+    <string name="bearing_086">Bearing: 086</string>
+    <string name="accuracy_20_0m">Accuracy: 20.0m</string>
+    <string name="address_123_fake_street">Address: 123 Fake Street</string>
+    <string name="altitude_130m">Altitude: 130m</string>
+</resources>
